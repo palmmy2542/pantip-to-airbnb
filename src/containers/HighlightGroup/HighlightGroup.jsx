@@ -101,7 +101,7 @@ const HighlightGroup = () => {
   return (
     <Box>
       <TitleWrapper>
-        <Typography variant="h5">Highlight</Typography>
+        <Typography variant="h5">✨Highlight</Typography>
       </TitleWrapper>
       <Slider dots={false} pauseOnHover adaptiveHeight {...settings}>
         {Highlights &&

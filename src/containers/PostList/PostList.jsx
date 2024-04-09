@@ -23,12 +23,18 @@ const PostList = (props) => {
       {posts &&
         rooms &&
         posts.map(({ room_name_th, topics }) => {
-          const room = rooms.find((room) => room_name_th === room.room_name_th);
-
+          const room = rooms.find((room) => room_name_th === room.name);
+          console.log(room["imageUrl"]);
           return (
             <Box key={room_name_th}>
-              <TitleWrapper>
-                {/* <img src={room["image_url"]} /> */}
+              <TitleWrapper display={"flex"} gap={1}>
+                <img
+                  src={room["imageUrl"]}
+                  alt={room_name_th}
+                  width={40}
+                  height={40}
+                  style={{ background: "#2d2a49" }}
+                />
                 <Typography variant="h5">{room_name_th}</Typography>
               </TitleWrapper>
               {topics &&

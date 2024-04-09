@@ -19,7 +19,7 @@ const PicksList = (props) => {
   return (
     <Box {...props}>
       <TitleWrapper>
-        <Typography variant="h5">Pantip Picks</Typography>
+        <Typography variant="h5">⭐️ Pantip Picks</Typography>
         <Typography variant="caption">
           กระทู้คุณภาพคัดเลือกโดยทีมงาน Pantip
         </Typography>

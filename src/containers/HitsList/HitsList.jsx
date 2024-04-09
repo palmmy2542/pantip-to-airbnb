@@ -19,7 +19,7 @@ const HitsList = (props) => {
   return (
     <Box {...props}>
       <TitleWrapper>
-        <Typography variant="h5">Pantip Hits</Typography>
+        <Typography variant="h5">🔥Pantip Hits</Typography>
         <Typography variant="caption">กระทู้ฮิตติดเทรนด์ทุก 10 นาที</Typography>
       </TitleWrapper>
       {posts &&

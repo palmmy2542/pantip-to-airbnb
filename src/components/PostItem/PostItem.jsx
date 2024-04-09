@@ -10,10 +10,10 @@ const renderMatadata = (comments_count, views_count) => {
         alignItems={"center"}
         gap={1}
       >
-        <Comment />
+        <Comment color="disabled" />
         <Typography variant="caption">{comments_count}</Typography>
         <Typography variant="caption">|</Typography>
-        <Visibility />
+        <Visibility color="disabled" />
         <Typography variant="caption">{views_count}</Typography>
       </Box>
     );
@@ -25,7 +25,7 @@ const renderMatadata = (comments_count, views_count) => {
         alignItems={"center"}
         gap={1}
       >
-        <Comment />
+        <Comment color="disabled" />
         <Typography variant="caption">{comments_count}</Typography>
       </Box>
     );
@@ -37,7 +37,7 @@ const renderMatadata = (comments_count, views_count) => {
         alignItems={"center"}
         gap={1}
       >
-        <Visibility />
+        <Visibility color="disabled" />
         <Typography variant="caption">{views_count}</Typography>
       </Box>
     );
@@ -55,8 +55,9 @@ const PostItem = ({ title, author, comments_count, views_count, diffTime }) => {
         justifyContent: "space-between",
         minHeight: 64,
         mb: 2,
+        cursor: "pointer",
       }}
-      elevation={1}
+      elevation={4}
     >
       <Box
         sx={{

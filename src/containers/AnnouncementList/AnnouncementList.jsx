@@ -17,7 +17,7 @@ const AnnouncementList = () => {
   return (
     <Box>
       <TitleWrapper display={"flex"} alignItems={"ceneter"} gap={1}>
-        <Campaign />
+        <Campaign color="warning" />
         <Typography variant="h5">ประกาศ</Typography>
       </TitleWrapper>
       <Box display={"flex"} flexDirection={"column"} gap={2}>

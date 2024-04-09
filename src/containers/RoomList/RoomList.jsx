@@ -18,7 +18,7 @@ const icons = [
 
 const RoomList = () => {
   const dispatch = useDispatch();
-  const rooms = [];
+  const rooms = useSelector((state) => state.rooms.data) || [];
   const isLoading = useSelector((state) => state.rooms.loading);
   const [isSticky, setIsSticky] = useState(false);
 

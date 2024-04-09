@@ -40,7 +40,10 @@ const Home = () => {
               <HitsList />
               <PostList />
             </Box>
-            <RightSideBar flex={0.5} />
+            <RightSideBar
+              flex={0.5}
+              sx={{ display: { xs: "none", md: "block" } }}
+            />
           </Box>
         </Box>
       </Box>
