@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "id": 67,
+      "name": "AF 12",
+      "slug": "af",
+      "is_official": false,
+      "is_active": true,
+      "has_icon": false
+    },
+    {
+      "id": 66,
+      "name": "AF Fan Club",
+      "slug": "affanclub",
+      "is_official": false,
+      "is_active": true,
+      "has_icon": false
+    },
+    {
+      "id": 213,
+      "name": "BTS & ARMY in Pantip",
+      "slug": "club213",
+      "is_official": false,
+      "is_active": true,
+      "has_icon": false
+    },
+    {
+      "id": 217,
+      "name": "FASHIONISTA CLUB",
+      "slug": "fashionistaclub",
+      "is_official": false,
+      "is_active": true,
+      "has_icon": false
+    },
+    {
+      "id": 95,
+      "name": "Graduate Lounge",
+      "slug": "graduate",
+      "is_official": false,
+      "is_active": true,
+      "has_icon": false
+    },
+    {
+      "id": 63,
+      "name": "Michael Jackson",
+      "slug": "mj",
+      "is_official": false,
+      "is_active": true,
+      "has_icon": false
+    },
+    {
+      "id": 199,
+      "name": "Reality G@me",
+      "slug": "club199",
+      "is_official": false,
+      "is_active": true,
+      "has_icon": false
+    },
+    {
+      "id": 17,
+      "name": "Series Club",
+      "slug": "seriesclub",
+      "is_official": false,
+      "is_active": true,
+      "has_icon": false
+    },
+    {
+      "id": 68,
+      "name": "The Star Fan Club",
+      "slug": "thestarfanclub",
+      "is_official": false,
+      "is_active": true,
+      "has_icon": false
+    },
+    {
+      "id": 211,
+      "name": "TWICE & ONCE in Pantip",
+      "slug": "club211",
+      "is_official": false,
+      "is_active": true,
+      "has_icon": false
+    },
+    {
+      "id": 223,
+      "name": "Welcome to neverland *(G)I-DLE in Pantip",
+      "slug": "neverland_pantip",
+      "is_official": false,
+      "is_active": true,
+      "has_icon": false
+    },
+    {
+      "id": 194,
+      "name": "กระโจมหรรษา",
+      "slug": "club194",
+      "is_official": false,
+      "is_active": true,
+      "has_icon": false
+    },
+    {
+      "id": 190,
+      "name": "คลับ PR Channel",
+      "slug": "prchannel",
+      "is_official": false,
+      "is_active": true,
+      "has_icon": false
+    },
+    {
+      "id": 96,
+      "name": "คลับเพื่ออิสรภาพทางการเงิน",
+      "slug": "dsm",
+      "is_official": false,
+      "is_active": true,
+      "has_icon": false
+    },
+    {
+      "id": 189,
+      "name": "เปิดท้ายชานเรือน",
+      "slug": "clubfamily",
+      "is_official": false,
+      "is_active": true,
+      "has_icon": false
+    },
+    {
+      "id": 121,
+      "name": "พรรคมารฯคาเฟ่",
+      "slug": "pukmarncafe",
+      "is_official": false,
+      "is_active": true,
+      "has_icon": false
+    },
+    {
+      "id": 81,
+      "name": "เรารักโปสการ์ด",
+      "slug": "postcardlovers",
+      "is_official": false,
+      "is_active": true,
+      "has_icon": false
+    },
+    {
+      "id": 180,
+      "name": "เล่าเรื่องภาวนา",
+      "slug": "meditationclub",
+      "is_official": false,
+      "is_active": true,
+      "has_icon": false
+    },
+    {
+      "id": 221,
+      "name": "ศาลาเคี้ยวหมาก",
+      "slug": "pavilion_chewing",
+      "is_official": false,
+      "is_active": true,
+      "has_icon": false
+    },
+    {
+      "id": 222,
+      "name": "ห้องมุมรุมเม้าท์บันเทิง",
+      "slug": "gissipon_pantip",
+      "is_official": false,
+      "is_active": true,
+      "has_icon": false
+    },
+    {
+      "id": 73,
+      "name": "ฮั่น อิสริยะ",
+      "slug": "C158",
+      "is_official": false,
+      "is_active": true,
+      "has_icon": false
+    }
+  ],
+  "has_club": false,
+  "count": 21
+}

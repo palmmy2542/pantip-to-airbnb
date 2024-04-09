@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "name": "ข่าวดี! เพื่อนๆ สามารถสร้างรายได้ไปพร้อมกับใช้งาน Pantip ได้แล้วนะ",
+      "weight": 20,
+      "image_url": [
+        "https://ptcdn.info/home_sidebar_content/2023-10/652e338fcaac0ad6d15e6ca6_z3a2y5aw7d_200.jpg",
+        "https://ptcdn.info/home_sidebar_content/2023-10/652e338fcaac0ad6d15e6ca6_z3a2y5aw7d_400.jpg",
+        "https://ptcdn.info/home_sidebar_content/2023-10/652e338fcaac0ad6d15e6ca6_z3a2y5aw7d_1000.jpg"
+      ],
+      "post_url": "https://pantip.com/s/4w99Y"
+    },
+    {
+      "name": "‘ให้โลกนี้กอดเธอไว้ (Huggable)’ ซิงเกิลใหม่ที่เต็มไปด้วยความอบอุ่นจาก ‘BABEPOOM’",
+      "weight": 20,
+      "image_url": [
+        "https://ptcdn.info/home_sidebar_content/2024-04/660d04a8caac0abc7c34f964_in6kmm5wu1_200.jpg",
+        "https://ptcdn.info/home_sidebar_content/2024-04/660d04a8caac0abc7c34f964_in6kmm5wu1_400.jpg",
+        "https://ptcdn.info/home_sidebar_content/2024-04/660d04a8caac0abc7c34f964_in6kmm5wu1_1000.jpg"
+      ],
+      "post_url": "https://pantip.com/s/y8L2x"
+    },
+    {
+      "name": "Pantip Pick of the Year 2023 - รวม 10 สุดยอดกระทู้แห่งปี 2566 ที่ถูกใจทีมงาน Pantip",
+      "weight": 20,
+      "image_url": [
+        "https://ptcdn.info/home_sidebar_content/2023-12/65782451caac0ad1f403bbe5_v2kspb70p0_200.png",
+        "https://ptcdn.info/home_sidebar_content/2023-12/65782451caac0ad1f403bbe5_v2kspb70p0_400.png",
+        "https://ptcdn.info/home_sidebar_content/2023-12/65782451caac0ad1f403bbe5_v2kspb70p0_1000.png"
+      ],
+      "post_url": "https://pantip.com/s/sdYOO"
+    },
+    {
+      "name": "[Pantip Point] ชวนแชร์ภาพความสดชื่นต้อนรับ Summer! 🏖🌞",
+      "weight": 20,
+      "image_url": [
+        "https://ptcdn.info/home_sidebar_content/2024-04/660a53c4caac0af8780ac7f4_6auv9g4oy2_200.png",
+        "https://ptcdn.info/home_sidebar_content/2024-04/660a53c4caac0af8780ac7f4_6auv9g4oy2_400.png",
+        "https://ptcdn.info/home_sidebar_content/2024-04/660a53c4caac0af8780ac7f4_6auv9g4oy2_1000.png"
+      ],
+      "post_url": "https://pantip.com/s/61N3L"
+    }
+  ]
+}

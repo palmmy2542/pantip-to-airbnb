@@ -1,0 +1,521 @@
+{
+  "success": true,
+  "data": [
+    {
+      "room_id": 24,
+      "room_name_th": "สินธร",
+      "room_name_en": "sinthorn",
+      "type": "room",
+      "topics": [
+        {
+          "topic_id": 42632741,
+          "topic_type": 3,
+          "title": "ปิดบัญชีแล้วเปิดบัญชีธนาคารใหม่",
+          "thumbnail_url": null,
+          "views_count": 0,
+          "comments_count": 0,
+          "votes_count": 0,
+          "author": {
+            "id": 7802229,
+            "name": "สมาชิกหมายเลข 7802229",
+            "avatar": {
+              "large": "https://ptcdn.info/images/avatar_member_default.png",
+              "medium": "https://ptcdn.info/images/avatar_member_default.png",
+              "small": "https://ptcdn.info/images/avatar_member_default.png"
+            },
+            "slug": "/profile/7802229"
+          },
+          "created_time": "2024-04-08T16:18:14Z",
+          "tags": [
+            {
+              "name": "ธนาคาร",
+              "slug": "ธนาคาร"
+            }
+          ],
+          "category": "latest"
+        },
+        {
+          "topic_id": 42632682,
+          "topic_type": 3,
+          "title": "อยากหาเงินเพื่อแบ่งเบาภาระพ่อแม่และออมไว้เป็นเงินหนุนหลังสำหรับอนาคต",
+          "thumbnail_url": null,
+          "views_count": 0,
+          "comments_count": 1,
+          "votes_count": 0,
+          "author": {
+            "id": 7641579,
+            "name": "สมาชิกหมายเลข 7641579",
+            "avatar": {
+              "large": "https://ptcdn.info/images/avatar_member_default.png",
+              "medium": "https://ptcdn.info/images/avatar_member_default.png",
+              "small": "https://ptcdn.info/images/avatar_member_default.png"
+            },
+            "slug": "/profile/7641579"
+          },
+          "created_time": "2024-04-08T15:49:58Z",
+          "tags": [
+            {
+              "name": "แข่งรักนักซิ่ง",
+              "slug": "แข่งรักนักซิ่ง"
+            },
+            {
+              "name": "สมาคมกีฬาแข่งรถจักรยานยนต์แห่งประเทศไทย",
+              "slug": "สมาคมกีฬาแข่งรถจักรยานยนต์แห่งประเทศไทย"
+            },
+            {
+              "name": "การเงิน",
+              "slug": "การเงิน"
+            },
+            {
+              "name": "งานค้าขาย",
+              "slug": "งานค้าขาย"
+            },
+            {
+              "name": "การทำงานออนไลน์",
+              "slug": "การทำงานออนไลน์"
+            }
+          ],
+          "category": "latest"
+        },
+        {
+          "topic_id": 42630854,
+          "topic_type": 3,
+          "title": "มีใครรู้สึกเหมือนเรามั้ยว่า อาชีพที่หากินกับความเจ็บป่วยมันดูไร้ศีลธรรมมากๆ เลย",
+          "thumbnail_url": null,
+          "views_count": 0,
+          "comments_count": 79,
+          "votes_count": 3,
+          "author": {
+            "id": 125703,
+            "name": "pockdik",
+            "avatar": {
+              "original": "https://p.ptcdn.info/926/012/000/125703_16005368080387_o.jpg",
+              "large": "https://p.ptcdn.info/926/012/000/125703_16005368080387_l.jpg",
+              "medium": "https://p.ptcdn.info/926/012/000/125703_16005368080387_m.jpg",
+              "small": "https://p.ptcdn.info/926/012/000/125703_16005368080387_s.jpg"
+            },
+            "slug": "/profile/125703"
+          },
+          "created_time": "2024-04-07T19:02:08Z",
+          "tags": [
+            {
+              "name": "สุขภาพผู้สูงอายุ",
+              "slug": "สุขภาพผู้สูงอายุ"
+            },
+            {
+              "name": "โรคในผู้สูงอายุ",
+              "slug": "โรคในผู้สูงอายุ"
+            },
+            {
+              "name": "โรงพยาบาล",
+              "slug": "โรงพยาบาล"
+            },
+            {
+              "name": "Value Investment",
+              "slug": "Value_Investment"
+            },
+            {
+              "name": "สุขภาพกาย",
+              "slug": "สุขภาพกาย"
+            }
+          ],
+          "category": "voted"
+        },
+        {
+          "topic_id": 42629474,
+          "topic_type": 3,
+          "title": "ไม่มีทายาท อยากได้บ้านเป็นรางวัลให้ตัวเองในวัย(ใกล้)เกษียณ แต่กลัวว่าตอนถึงตอนที่แก่ชรามากๆบ้านจะขายไม่ออก",
+          "thumbnail_url": null,
+          "views_count": 1641,
+          "comments_count": 91,
+          "votes_count": 1,
+          "author": {
+            "id": 538774,
+            "name": "positive thought",
+            "avatar": {
+              "large": "https://ptcdn.info/images/avatar_member_default.png",
+              "medium": "https://ptcdn.info/images/avatar_member_default.png",
+              "small": "https://ptcdn.info/images/avatar_member_default.png"
+            },
+            "slug": "/profile/538774"
+          },
+          "created_time": "2024-04-07T05:36:41Z",
+          "tags": [
+            {
+              "name": "การลงทุน",
+              "slug": "การลงทุน"
+            },
+            {
+              "name": "การออมเงิน",
+              "slug": "การออมเงิน"
+            },
+            {
+              "name": "เศรษฐศาสตร์",
+              "slug": "เศรษฐศาสตร์"
+            },
+            {
+              "name": "บ้านเดี่ยว",
+              "slug": "บ้านเดี่ยว"
+            },
+            {
+              "name": "การเงิน",
+              "slug": "การเงิน"
+            }
+          ],
+          "category": "trend"
+        },
+        {
+          "topic_id": 42628122,
+          "topic_type": 3,
+          "title": "ทำไมคนในพันทิพย์ชอบกดขำ เวลาพูดถึงเงินเดือนหลักแสนครับ",
+          "thumbnail_url": null,
+          "views_count": 4996,
+          "comments_count": 87,
+          "votes_count": 0,
+          "author": {
+            "id": 5156613,
+            "name": "สมาชิกหมายเลข 5156613",
+            "avatar": {
+              "large": "https://ptcdn.info/images/avatar_member_default.png",
+              "medium": "https://ptcdn.info/images/avatar_member_default.png",
+              "small": "https://ptcdn.info/images/avatar_member_default.png"
+            },
+            "slug": "/profile/5156613"
+          },
+          "created_time": "2024-04-06T10:50:15Z",
+          "tags": [
+            {
+              "name": "ชีวิตวัยรุ่น",
+              "slug": "ชีวิตวัยรุ่น"
+            },
+            {
+              "name": "ทรัพยากรบุคคล",
+              "slug": "ทรัพยากรบุคคล"
+            },
+            {
+              "name": "มนุษย์เงินเดือน",
+              "slug": "มนุษย์เงินเดือน"
+            },
+            {
+              "name": "การเงิน",
+              "slug": "การเงิน"
+            },
+            {
+              "name": "พนักงานประจำ",
+              "slug": "พนักงานประจำ"
+            }
+          ],
+          "category": "trend"
+        }
+      ]
+    },
+    {
+      "room_id": 10,
+      "room_name_th": "ซิลิคอนวัลเลย์",
+      "room_name_en": "siliconvalley",
+      "type": "room",
+      "topics": [
+        {
+          "topic_id": 42632751,
+          "topic_type": 3,
+          "title": "Apex Legends เป็นอย่างนี้แก้ยังไงเหรอครับ",
+          "thumbnail_url": "https://f.ptcdn.info/775/083/000/sbmtde7bf0OfF2a9Yc2q-s.png",
+          "views_count": 0,
+          "comments_count": 0,
+          "votes_count": 0,
+          "author": {
+            "id": 8077750,
+            "name": "สมาชิกหมายเลข 8077750",
+            "avatar": {
+              "large": "https://ptcdn.info/images/avatar_member_default.png",
+              "medium": "https://ptcdn.info/images/avatar_member_default.png",
+              "small": "https://ptcdn.info/images/avatar_member_default.png"
+            },
+            "slug": "/profile/8077750"
+          },
+          "created_time": "2024-04-08T16:23:17Z",
+          "tags": [
+            {
+              "name": "เกมคอมพิวเตอร์",
+              "slug": "เกมคอมพิวเตอร์"
+            },
+            {
+              "name": "เกม",
+              "slug": "เกม"
+            },
+            {
+              "name": "เกมออนไลน์",
+              "slug": "เกมออนไลน์"
+            }
+          ],
+          "category": "latest"
+        },
+        {
+          "topic_id": 42632733,
+          "topic_type": 3,
+          "title": "แนะนำเกมที่เล่น 4 คนบน PS4 หน่อยครับเกม Deluxeเท่านั้น",
+          "thumbnail_url": null,
+          "views_count": 0,
+          "comments_count": 0,
+          "votes_count": 0,
+          "author": {
+            "id": 6636704,
+            "name": "สมาชิกหมายเลข 6636704",
+            "avatar": {
+              "large": "https://ptcdn.info/images/avatar_member_default.png",
+              "medium": "https://ptcdn.info/images/avatar_member_default.png",
+              "small": "https://ptcdn.info/images/avatar_member_default.png"
+            },
+            "slug": "/profile/6636704"
+          },
+          "created_time": "2024-04-08T16:10:48Z",
+          "tags": [
+            {
+              "name": "PlayStation",
+              "slug": "PlayStation"
+            },
+            {
+              "name": "PlayStation 4",
+              "slug": "PlayStation_4"
+            },
+            {
+              "name": "PlayStation Plus",
+              "slug": "PlayStation_Plus"
+            },
+            {
+              "name": "เกม",
+              "slug": "เกม"
+            }
+          ],
+          "category": "latest"
+        },
+        {
+          "topic_id": 42625049,
+          "topic_type": 3,
+          "title": "อยู่ๆซิมฟรีที่แถมมากับเน็ตบ้านทรู จะเรียกเก็บค่าบริการ",
+          "thumbnail_url": "https://f.ptcdn.info/739/083/000/sbg5zv1d4oo2caOtl9V04-s.jpg",
+          "views_count": 8354,
+          "comments_count": 50,
+          "votes_count": 1,
+          "author": {
+            "id": 7071150,
+            "name": "สมาชิกหมายเลข 7071150",
+            "avatar": {
+              "large": "https://ptcdn.info/images/avatar_member_default.png",
+              "medium": "https://ptcdn.info/images/avatar_member_default.png",
+              "small": "https://ptcdn.info/images/avatar_member_default.png"
+            },
+            "slug": "/profile/7071150"
+          },
+          "created_time": "2024-04-05T02:15:43Z",
+          "tags": [
+            {
+              "name": "True iService",
+              "slug": "True_iService"
+            },
+            {
+              "name": "truemove",
+              "slug": "truemove"
+            },
+            {
+              "name": "คุ้มครองผู้บริโภค",
+              "slug": "คุ้มครองผู้บริโภค"
+            },
+            {
+              "name": "true online",
+              "slug": "true_online"
+            },
+            {
+              "name": "อินเทอร์เน็ต",
+              "slug": "อินเทอร์เน็ต"
+            }
+          ],
+          "category": "voted"
+        },
+        {
+          "topic_id": 42631765,
+          "topic_type": 3,
+          "title": "เบอร์ 095-365-1052 ใช่เบอร์ทรูไหมคะ",
+          "thumbnail_url": null,
+          "views_count": 0,
+          "comments_count": 4,
+          "votes_count": 0,
+          "author": {
+            "id": 4767658,
+            "name": "สมาชิกหมายเลข 4767658",
+            "avatar": {
+              "large": "https://ptcdn.info/images/avatar_member_default.png",
+              "medium": "https://ptcdn.info/images/avatar_member_default.png",
+              "small": "https://ptcdn.info/images/avatar_member_default.png"
+            },
+            "slug": "/profile/4767658"
+          },
+          "created_time": "2024-04-08T08:05:35Z",
+          "tags": [
+            {
+              "name": "truemove",
+              "slug": "truemove"
+            },
+            {
+              "name": "truemove H",
+              "slug": "truemove_H"
+            },
+            {
+              "name": "true online",
+              "slug": "true_online"
+            },
+            {
+              "name": "Wi-Fi",
+              "slug": "Wi-Fi"
+            },
+            {
+              "name": "บริษัทไอที",
+              "slug": "บริษัทไอที"
+            }
+          ],
+          "category": "trend"
+        },
+        {
+          "topic_id": 42631164,
+          "topic_type": 3,
+          "title": "App look tv ในกล่องแอนดรอยทีวี ดูวอลเล่บอล โดนลิขสิทธิไหมครับ",
+          "thumbnail_url": null,
+          "views_count": 0,
+          "comments_count": 2,
+          "votes_count": 0,
+          "author": {
+            "id": 700157,
+            "name": "ยู่ยี่",
+            "avatar": {
+              "original": "http://p.ptcdn.info/029/001/000/700157_7392372872_599347-622498921126858-1881928839-n_o.jpg",
+              "large": "https://p.ptcdn.info/029/001/000/700157_7392372872_599347-622498921126858-1881928839-n_l.jpg",
+              "medium": "https://p.ptcdn.info/029/001/000/700157_7392372872_599347-622498921126858-1881928839-n_m.jpg",
+              "small": "https://p.ptcdn.info/029/001/000/700157_7392372872_599347-622498921126858-1881928839-n_s.jpg"
+            },
+            "slug": "/profile/700157"
+          },
+          "created_time": "2024-04-08T02:31:14Z",
+          "tags": [
+            {
+              "name": "อินเทอร์เน็ต",
+              "slug": "อินเทอร์เน็ต"
+            },
+            {
+              "name": "Wi-Fi",
+              "slug": "Wi-Fi"
+            },
+            {
+              "name": "อิเล็กทรอนิกส์",
+              "slug": "อิเล็กทรอนิกส์"
+            },
+            {
+              "name": "กีฬา",
+              "slug": "กีฬา"
+            },
+            {
+              "name": "วอลเลย์บอล",
+              "slug": "วอลเลย์บอล"
+            }
+          ],
+          "category": "trend"
+        }
+      ]
+    },
+    {
+      "room_id": 18,
+      "room_name_th": "ราชดำเนิน",
+      "room_name_en": "rajdumnern",
+      "type": "room",
+      "topics": [
+        {
+          "topic_id": 42632826,
+          "topic_type": 3,
+          "title": "๏ ... ปลุกขวัญ ... ๏",
+          "thumbnail_url": "https://f.ptcdn.info/550/065/000/pwf0vg1toW04HcEULO-s.jpg",
+          "views_count": 0,
+          "comments_count": 1,
+          "votes_count": 0,
+          "author": {
+            "id": 171981,
+            "name": "นกโก๊ก",
+            "avatar": {
+              "original": "http://p.ptcdn.info/200/001/000/171981_8518393133_profile_o.gif",
+              "large": "https://p.ptcdn.info/200/001/000/171981_8518393133_profile_l.jpg",
+              "medium": "https://p.ptcdn.info/200/001/000/171981_8518393133_profile_m.jpg",
+              "small": "https://p.ptcdn.info/200/001/000/171981_8518393133_profile_s.jpg"
+            },
+            "slug": "/profile/171981"
+          },
+          "created_time": "2024-04-08T17:02:28Z",
+          "tags": [
+            {
+              "name": "บทกวี",
+              "slug": "บทกวี"
+            },
+            {
+              "name": "รัฐบาล",
+              "slug": "รัฐบาล"
+            },
+            {
+              "name": "การเมือง",
+              "slug": "การเมือง"
+            },
+            {
+              "name": "นักการเมือง",
+              "slug": "นักการเมือง"
+            },
+            {
+              "name": "พรรคการเมือง",
+              "slug": "พรรคการเมือง"
+            }
+          ],
+          "category": "latest"
+        },
+        {
+          "topic_id": 42632824,
+          "topic_type": 3,
+          "title": "๏ ... สละะห่วง ... ๏",
+          "thumbnail_url": null,
+          "views_count": 0,
+          "comments_count": 1,
+          "votes_count": 0,
+          "author": {
+            "id": 171981,
+            "name": "นกโก๊ก",
+            "avatar": {
+              "original": "http://p.ptcdn.info/200/001/000/171981_8518393133_profile_o.gif",
+              "large": "https://p.ptcdn.info/200/001/000/171981_8518393133_profile_l.jpg",
+              "medium": "https://p.ptcdn.info/200/001/000/171981_8518393133_profile_m.jpg",
+              "small": "https://p.ptcdn.info/200/001/000/171981_8518393133_profile_s.jpg"
+            },
+            "slug": "/profile/171981"
+          },
+          "created_time": "2024-04-08T17:01:37Z",
+          "tags": [
+            {
+              "name": "กวีการเมือง",
+              "slug": "กวีการเมือง"
+            },
+            {
+              "name": "รัฐบาล",
+              "slug": "รัฐบาล"
+            },
+            {
+              "name": "การเมือง",
+              "slug": "การเมือง"
+            },
+            {
+              "name": "นักการเมือง",
+              "slug": "นักการเมือง"
+            },
+            {
+              "name": "พรรคการเมือง",
+              "slug": "พรรคการเมือง"
+            }
+          ],
+          "category": "latest"
+        }
+      ]
+    }
+  ]
+}
