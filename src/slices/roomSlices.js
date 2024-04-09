@@ -9,7 +9,6 @@ const initialState = {
 const getRooms = async () => {
   const response = await fetch("/assets/rooms.json");
   const { data = [] } = await response.json();
-  console.log(data);
   return data;
 };
 

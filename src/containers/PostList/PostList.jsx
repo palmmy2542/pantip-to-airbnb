@@ -9,11 +9,9 @@ import { fetchData } from "../../slices/postSlices";
 const PostList = (props) => {
   const dispatch = useDispatch();
   const posts = useSelector((state) => {
-    console.log(state);
     return state.data.data;
   });
   const rooms = useSelector((state) => state.rooms.data);
-  console.log(rooms);
 
   useEffect(() => {
     dispatch(fetchData());
@@ -24,7 +22,6 @@ const PostList = (props) => {
         rooms &&
         posts.map(({ room_name_th, topics }) => {
           const room = rooms.find((room) => room_name_th === room.name);
-          console.log(room["imageUrl"]);
           return (
             <Box key={room_name_th}>
               <TitleWrapper display={"flex"} gap={1}>

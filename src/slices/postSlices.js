@@ -20,7 +20,7 @@ export const fetchData = createAsyncThunk("data/fetchData", async () => {
 const dataSlice = createSlice({
   name: "data",
   initialState,
-  reducers: {}, // No reducers needed for fetching data (handled by thunk)
+  reducers: {},
   extraReducers: (builder) => {
     builder
       .addCase(fetchData.pending, (state) => {
